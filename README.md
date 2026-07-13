@@ -52,6 +52,7 @@ var age = 20
 
 ### 3. Short Declaration (Most Common)
 
+
 ```go
 age := 20
 name := "Sam"
