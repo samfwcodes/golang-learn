@@ -8,7 +8,6 @@ COMPLEX TOPICS LIKE INTERFACES, CHANNELS AND GOROUTINES ARE IN THERE INDIVIDUAL 
 # Why Go?
 
 Go is designed to be:
-
 - 🚀 Fast
 - 🧹 Simple and easy to read
 - ⚡ Excellent for concurrency
