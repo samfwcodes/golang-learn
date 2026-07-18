@@ -16,6 +16,7 @@ Go is designed to be:
 
 ---
 
+
 # Variables
 
 Variables are used to store values.
